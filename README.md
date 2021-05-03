@@ -9,7 +9,5 @@ Once the webpage is open users are greated with a nice header and a brief quotat
 <img width="1310" alt="Screen Shot 2021-05-02 at 10 21 33 PM" src="https://user-images.githubusercontent.com/75695931/116836517-cabfa980-ab94-11eb-884b-deaba673c293.png">
 Above you can see i have searched for all the sightings in NY state, and the webpage returned all ther results regarless of the other filters because they were empty. I made the webpage user friendly by show examples searches in each filter in order to guide the User on how to use the search functions. User's should also note that the filters are case sensitive - so all text should be lowercase, with state abbreviations and no special characters.
 
-Summary:
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+## Summary:
+One drawback is if we look at all the date that we had access to there is one field thatis not on our webpage and that is "Duration". We have this data in our "data.js" file but no field for it because the data is a little messy and it wouldn't be easy to apply a filter to it. The data is not standardized there is a lot of differernt formats in the data file. It is unfortunate that we don't have a way right now of creating that filter in a functioning way. However, this is an aspect of the webpage we could re-work or manage to incorporate the "duration" filter because I think people will find that interesting. Another aspect I would like to change is to make the table that shows the results of the filter look a little more presetable and engaging. Adding some formatting and maybe a couple more images will really take that webpage to the next level. As of right now the table just appears a little bland and unprofessional but nothing we can't fix. 
